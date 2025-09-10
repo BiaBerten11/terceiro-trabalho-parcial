@@ -4,6 +4,8 @@
     <groupId>br.edu.unifio</groupId>
     <artifactId>terceiro_trabalho_parcial</artifactId>
     <version>2025.09.09</version>
+    <packaging>pom</packaging>
+
 
     <properties>
         <compiler-plugin.version>3.14.0</compiler-plugin.version>
